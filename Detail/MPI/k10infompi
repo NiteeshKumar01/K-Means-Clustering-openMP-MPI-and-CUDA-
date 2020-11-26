@@ -1,0 +1,19 @@
+225
+225
+Tolerance = 0.000000
+K-mean algorithm Converged at iteration 2
+Calculate After_Cluster time : 0.061309 sec
+Input time : 0.050617 sec
+send initial data time : 0.067132 sec
+Recieve results from slave time : 0.000134 sec
+NewMean calculation time : 0.002438 sec
+Convergence check time : 0.000475 sec
+send newmeans to slaves time : 0.000004 sec
+Total time for iterative communication data (mean, after cluster) : 0.000138
+Output time : 0.026916 sec
+	Master time (Communication) : 0.067270 sec
+	Master time (Calculation) : 0.002913 sec
+	Master time (File operation) : 0.077533 sec
+	Total Master time : 0.147716 sec
+
+Total Time : 0.210206 sec
